@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "person": {
+            "name": "Mr. Zowadul Alam",
+            "flat": "1st Floor",
+            "phone": "01711566376",
+            "email": "z.alam.mb@gmail.com"
+        }
+    },
+    {
+        "id": 2,
+        "person": {
+            "name": "Mr. Sofiqul Islam",
+            "flat": "2nd Floor",
+            "phone": "N/A",
+            "email": "N/A"
+        }
+    },
+    {
+        "id": 3,
+        "person": {
+            "name": "Mr. Mahbubul Islam",
+            "flat": "3rd Floor",
+            "phone": "01713121208",
+            "email": "engr.mahbubul@yahoo.com"
+        }
+    },
+    {
+        "id": 4,
+        "person": {
+            "name": "Mr. Zia Hasan",
+            "flat": "4th Floor",
+            "phone": "US Number",
+            "email": "N/A"
+        }
+    },
+    {
+        "id": 5,
+        "person": {
+            "name": "Mrs. Husnun Nahar",
+            "flat": "5th Floor North",
+            "phone": "US Number",
+            "email": "N/A"
+        }
+    },
+    {
+        "id": 6,
+        "person": {
+            "name": "Mr. Mahmudul Alam",
+            "flat": "5th Floor South",
+            "phone": "+7187386205",
+            "email": "mmalam63@msn.com"
+        }
+    }
+]

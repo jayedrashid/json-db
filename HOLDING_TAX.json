@@ -1,0 +1,62 @@
+[
+    {
+        "year": "2021-2022",
+        "netTax": 62663.04,
+        "netTaxWithCost": 62750
+    },
+    {
+        "year": "2020-2021",
+        "netTax": 54492.00,
+        "netTaxWithCost": 55000
+    },
+    {
+        "year": "2019-2020",
+        "netTax": 54492.00,
+        "netTaxWithCost": 55000
+    },
+    {
+        "year": "2018-2019",
+        "netTax": 53808.48,
+        "netTaxWithCost": 54000
+    },
+    {
+        "year": "2017-2018",
+        "netTax": 53811.00,
+        "netTaxWithCost": 54000
+    },
+    {
+        "year": "2016-2017",
+        "netTax": 52449.00,
+        "netTaxWithCost": 53000
+    },
+    {
+        "year": "2015-2016",
+        "netTax": 54492.00,
+        "netTaxWithCost": 55000
+    },
+    {
+        "year": "2014-2015",
+        "netTax": 52449.00,
+        "netTaxWithCost": 53000
+    },
+    {
+        "year": "2013-2014",
+        "netTax": 0,
+        "netTaxWithCost": 0
+    },
+    {
+        "year": "2012-2013",
+        "netTax": 54480.00,
+        "netTaxWithCost": 55000
+    },
+    {
+        "year": "2011-2012",
+        "netTax": 49536.00,
+        "netTaxWithCost": 50000
+    },
+    {
+        "year": "2009-2011",
+        "netTax": 105880.00,
+        "netTaxWithCost": 106000
+    }
+]
