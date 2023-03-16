@@ -1,0 +1,36 @@
+{
+    "countries": [
+        {
+            "country": "USA",
+            "budget": "732"
+        },
+        {
+            "country": "CHINA",
+            "budget": "178"
+        },
+        {
+            "country": "INDIA",
+            "budget": "73"
+        },
+        {
+            "country": "UK",
+            "budget": "56"
+        },
+        {
+            "country": "JAPAN",
+            "budget": "51"
+        },
+        {
+            "country": "SAUDI ARAB",
+            "budget": "48"
+        },
+        {
+            "country": "RUSSIA",
+            "budget": "43"
+        },
+        {
+            "country": "FRANCS",
+            "budget": "42"
+        }
+    ]
+}
