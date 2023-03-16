@@ -1,5 +1,4 @@
-{
-    "countries": [
+[
         {
             "country": "USA",
             "budget": "732"
@@ -33,4 +32,3 @@
             "budget": "42"
         }
     ]
-}
