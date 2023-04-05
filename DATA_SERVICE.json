@@ -1,5 +1,37 @@
 [
     {
+        "month": "Mar",
+        "year": 2023,
+        "security": 13000,
+        "electric": 13314,
+        "water": 7158,
+        "gas": 8640,
+        "lift": 2000,
+        "generatorFuel": 3270,
+        "kollanSomity": 1250,
+        "maintenance": 700,
+        "conveyance": 100,
+        "document": 100,
+        "bonusTips": 0,
+        "gasUnitPrice": 1080
+    },
+    {
+        "month": "Feb",
+        "year": 2023,
+        "security": 13000,
+        "electric": 11361,
+        "water": 6983,
+        "gas": 8640,
+        "lift": 2000,
+        "generatorFuel": 3270,
+        "kollanSomity": 1250,
+        "maintenance": 0,
+        "conveyance": 200,
+        "document": 100,
+        "bonusTips": 0,
+        "gasUnitPrice": 1815
+    },
+    {
         "month": "Jan",
         "year": 2023,
         "security": 13000,
