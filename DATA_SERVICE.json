@@ -1,6 +1,5 @@
 [
     {
-        "id": 1,
         "month": "Jan",
         "year": 2023,
         "security": 13000,
@@ -17,7 +16,6 @@
         "gasUnitPrice": 975
     },
     {
-        "id": 2,
         "month": "Dec",
         "year": 2022,
         "security": 13000,
@@ -34,7 +32,6 @@
         "gasUnitPrice": 975
     },
     {
-        "id": 3,
         "month": "Nov",
         "year": 2022,
         "security": 13000,
@@ -51,7 +48,6 @@
         "gasUnitPrice": 975
     },
     {
-        "id": 4,
         "month": "Oct",
         "year": 2022,
         "security": 13000,
@@ -68,7 +64,6 @@
         "gasUnitPrice": 975
     },
     {
-        "id": 5,
         "month": "Sep",
         "year": 2022,
         "security": 13000,
@@ -85,7 +80,6 @@
         "gasUnitPrice": 975
     },
     {
-        "id": 6,
         "month": "Aug",
         "year": 2022,
         "security": 13000,
@@ -102,7 +96,6 @@
         "gasUnitPrice": 975
     },
     {
-        "id": 7,
         "month": "Jul",
         "year": 2022,
         "security": 13000,
@@ -119,7 +112,6 @@
         "gasUnitPrice": 975
     },
     {
-        "id": 8,
         "month": "Jun",
         "year": 2022,
         "security": 13000,
@@ -136,7 +128,6 @@
         "gasUnitPrice": 975
     },
     {
-        "id": 9,
         "month": "May",
         "year": 2022,
         "security": 13000,
@@ -153,7 +144,6 @@
         "gasUnitPrice": 975
     },
     {
-        "id": 10,
         "month": "Apr",
         "year": 2022,
         "security": 13000,
@@ -170,7 +160,6 @@
         "gasUnitPrice": 975
     },
     {
-        "id": 11,
         "month": "Mar",
         "year": 2022,
         "security": 13000,
@@ -187,7 +176,6 @@
         "gasUnitPrice": 975
     },
     {
-        "id": 12,
         "month": "Feb",
         "year": 2022,
         "security": 13000,
