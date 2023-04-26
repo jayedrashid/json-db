@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Bootstrap Gym Website",
+        "tech": ["HTML", " CSS", " Bootstrap", " JavaScript", " Netlify"],
+        "image": "projectImg1",
+        "projectUrl": "https://jayedrashid-fitness-proj.netlify.app/",
+        "tags": ["dashboard"]
+    },
+    {
+        "name": "Portfolio Site",
+        "tech": ["HTML", " CSS", " JavaScript", " Netlify"],
+        "image": "projectImg2",
+        "projectUrl": "https://jayedrashid-portfolio-proj.netlify.app/",
+        "tags": ["portfolio"]
+    },
+    {
+        "name": "Resume Site",
+        "tech": ["HTML", " CSS", " JavaScript", " Heroku"],
+        "image": "projectImg3",
+        "projectUrl": "https://jayedrashid-resume-proj.herokuapp.com/",
+        "tags": ["portfolio"]
+    },
+    {
+        "name": "A Blog Writing Site",
+        "tech": ["Next", " JavaScript", " Tailwind"], 
+        "image": "projectImg4",
+        "projectUrl": "https://www.google.com/",
+        "tags": ["blog"]
+    },
+    {
+        "name": "Recipe App",
+        "tech": ["React", " JavaScript", " API", " Netlify"],
+        "image": "projectImg5",
+        "projectUrl": "https://project-my-recipe-app.netlify.app/",
+        "tags": ["dashboard"]
+    },
+    {
+        "name": "Saving Photo Memories",
+        "tech": ["Next", " SQL", " Material-UI"],
+        "image": "projectImg6",
+        "projectUrl": "https://www.google.com/",
+        "tags": ["e-commerce"]
+    }
+]
