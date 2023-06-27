@@ -1,5 +1,21 @@
 [
       {
+        "month": "June",
+        "year": 2023,
+        "security": 13000,
+        "electric": 11941,
+        "water": 8729,
+        "gas": 8640,
+        "lift": 2000,
+        "generatorFuel": 9810,
+        "kollanSomity": 1250,
+        "maintenance": 0,
+        "conveyance": 300,
+        "document": 100,
+        "bonusTips": 8200,
+        "gasUnitPrice": 1080
+     },
+      {
         "month": "May",
         "year": 2023,
         "security": 13000,
